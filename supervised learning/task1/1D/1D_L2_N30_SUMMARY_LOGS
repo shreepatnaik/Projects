@@ -1,0 +1,70 @@
+Model: "sequential"
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense (Dense)               (None, 5)                 10        
+                                                                 
+ dense_1 (Dense)             (None, 30)                180       
+                                                                 
+ dense_2 (Dense)             (None, 1)                 31        
+                                                                 
+=================================================================
+Total params: 221
+Trainable params: 221
+Non-trainable params: 0
+_________________________________________________________________
+
+
+Epoch: 0 | Loss: 0.6947726607322693 | Valid loss: 0.6741011738777161 | Val Accuracy : 1.0 | Accuracy : 0.8486841917037964
+Epoch: 1 | Loss: 0.6829843521118164 | Valid loss: 0.6615721583366394 | Val Accuracy : 1.0 | Accuracy : 0.8486841917037964
+Epoch: 2 | Loss: 0.6744595766067505 | Valid loss: 0.6501278877258301 | Val Accuracy : 1.0 | Accuracy : 0.8486841917037964
+Epoch: 3 | Loss: 0.6667129993438721 | Valid loss: 0.63900226354599 | Val Accuracy : 1.0 | Accuracy : 0.8486841917037964
+Epoch: 4 | Loss: 0.6592375636100769 | Valid loss: 0.6278119087219238 | Val Accuracy : 1.0 | Accuracy : 0.8486841917037964
+Epoch: 5 | Loss: 0.6516734957695007 | Valid loss: 0.6166993379592896 | Val Accuracy : 1.0 | Accuracy : 0.8486841917037964
+Epoch: 6 | Loss: 0.6442887783050537 | Valid loss: 0.605675458908081 | Val Accuracy : 1.0 | Accuracy : 0.8486841917037964
+Epoch: 7 | Loss: 0.6368290781974792 | Valid loss: 0.5941630005836487 | Val Accuracy : 1.0 | Accuracy : 0.8486841917037964
+Epoch: 8 | Loss: 0.629278302192688 | Valid loss: 0.5825589895248413 | Val Accuracy : 1.0 | Accuracy : 0.8486841917037964
+.
+.
+.
+.
+Epoch: 995 | Loss: 0.0069849202409386635 | Valid loss: 4.342539661195133e-09 | Val Accuracy : 1.0 | Accuracy : 1.0
+Epoch: 996 | Loss: 0.007264231331646442 | Valid loss: 4.040017653750283e-09 | Val Accuracy : 1.0 | Accuracy : 1.0
+Epoch: 997 | Loss: 0.006977246608585119 | Valid loss: 4.138025477828933e-09 | Val Accuracy : 1.0 | Accuracy : 1.0
+Epoch: 998 | Loss: 0.007139974739402533 | Valid loss: 4.436202960533819e-09 | Val Accuracy : 1.0 | Accuracy : 1.0
+Epoch: 999 | Loss: 0.006966967135667801 | Valid loss: 4.035265899204887e-09 | Val Accuracy : 1.0 | Accuracy : 1.0
+Model: "sequential"
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense (Dense)               (None, 5)                 10        
+                                                                 
+ dense_1 (Dense)             (None, 30)                180       
+                                                                 
+ dense_2 (Dense)             (None, 1)                 31        
+                                                                 
+=================================================================
+Total params: 221
+Trainable params: 221
+Non-trainable params: 0
+_________________________________________________________________
+
+
+Epoch: 0 | Loss: 0.6938425302505493 | Valid loss: 0.6714544296264648 | Val Accuracy : 1.0 | Accuracy : 0.8486841917037964
+Epoch: 1 | Loss: 0.6816536784172058 | Valid loss: 0.6590512990951538 | Val Accuracy : 1.0 | Accuracy : 0.8486841917037964
+Epoch: 2 | Loss: 0.6732587218284607 | Valid loss: 0.6480437517166138 | Val Accuracy : 1.0 | Accuracy : 0.8486841917037964
+Epoch: 3 | Loss: 0.6654950976371765 | Valid loss: 0.636542022228241 | Val Accuracy : 1.0 | Accuracy : 0.8486841917037964
+Epoch: 4 | Loss: 0.6577315330505371 | Valid loss: 0.6252987384796143 | Val Accuracy : 1.0 | Accuracy : 0.8486841917037964
+Epoch: 5 | Loss: 0.6504623293876648 | Valid loss: 0.6145185232162476 | Val Accuracy : 1.0 | Accuracy : 0.8486841917037964
+Epoch: 6 | Loss: 0.6430715322494507 | Valid loss: 0.6034597754478455 | Val Accuracy : 1.0 | Accuracy : 0.8486841917037964
+Epoch: 7 | Loss: 0.6357125639915466 | Valid loss: 0.5920103192329407 | Val Accuracy : 1.0 | Accuracy : 0.8486841917037964
+Epoch: 8 | Loss: 0.6281828880310059 | Valid loss: 0.5807958245277405 | Val Accuracy : 1.0 | Accuracy : 0.8486841917037964
+.
+.
+.
+.
+Epoch: 995 | Loss: 0.006668909452855587 | Valid loss: 3.41235573131371e-09 | Val Accuracy : 1.0 | Accuracy : 1.0
+Epoch: 996 | Loss: 0.0066398633643984795 | Valid loss: 3.3568898771818567e-09 | Val Accuracy : 1.0 | Accuracy : 1.0
+Epoch: 997 | Loss: 0.007273007184267044 | Valid loss: 3.3355411765967347e-09 | Val Accuracy : 1.0 | Accuracy : 1.0
+Epoch: 998 | Loss: 0.006819222122430801 | Valid loss: 3.019577921037353e-09 | Val Accuracy : 1.0 | Accuracy : 1.0
+Epoch: 999 | Loss: 0.007240641862154007 | Valid loss: 2.954077205075123e-09 | Val Accuracy : 1.0 | Accuracy : 1.0
